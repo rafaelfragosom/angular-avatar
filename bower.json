@@ -12,8 +12,8 @@
     "avatar", "angular-avatar", "letter avatar", "initials avatar", "angular avatar", "profile picture", "string avatar", "ng-avatar"
   ],
   "dependencies": {
-    "angular": "1.4.5",
-    "angular-mocks": "1.4.5"
+    "angular": "^1.5.8",
+    "angular-mocks": "^1.5.8"
   },
   "license": "MIT",
   "ignore": [
